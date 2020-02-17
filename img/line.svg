@@ -1,0 +1,17 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#00ffff" height="0" id="svg_12" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="0" stroke-width="null" width="1" x="127.5" y="61.5"/>
+  <line fill="none" id="svg_14" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="rotate(2.56377 317 81)" x1="316.72366" x2="317.27634" y1="61.50501" y2="100.495"/>
+  <line fill="none" id="svg_15" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="rotate(-0.795724 315.5 125.5)" x1="316.54161" x2="314.45839" y1="110.50723" y2="140.49277"/>
+  <line fill="none" id="svg_16" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" x1="316.5" x2="316.5" y1="149.5" y2="173.5"/>
+  <rect fill="#5656ff" height="111" id="svg_24" stroke="#000000" stroke-dasharray="5,5" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" width="0" x="91.5" y="45.5"/>
+  <ellipse cx="317.5" cy="189" fill="#000000" id="svg_26" rx="11" ry="15.5" stroke="#000000" stroke-linecap="null" stroke-linejoin="null"/>
+  <line fill="none" id="svg_31" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="rotate(-0.795724 316.5 240.5)" x1="317" x2="316" y1="228.5" y2="252.5"/>
+  <line fill="none" id="svg_32" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="rotate(5.78004 315.799 215.058)" x1="316.29942" x2="315.29942" y1="224.61876" y2="205.49792"/>
+  <ellipse cx="318.5" cy="269.5" fill="#000000" id="svg_33" rx="11" ry="15.5" stroke="#000000" stroke-linecap="null" stroke-linejoin="null"/>
+  <line fill="none" id="svg_34" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="rotate(2.56377 317.5 347)" x1="316.66452" x2="318.33548" y1="325.00751" y2="368.99249"/>
+  <line fill="none" id="svg_35" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="rotate(-22.1623 317.099 300.795)" x1="323.20403" x2="310.99339" y1="286.29547" y2="315.29547"/>
+ </g>
+</svg>
